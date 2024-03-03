@@ -1,0 +1,6 @@
+[submodule "TShock"]
+	path = TShock
+	url = https://github.com/Metratrj/TShock.git
+[submodule "tModLoader"]
+	path = tModLoader
+	url = https://github.com/Metratrj/tModLoader.git
